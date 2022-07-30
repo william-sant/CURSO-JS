@@ -1,0 +1,10 @@
+
+#area {
+    font: normal 40pt arial;
+    background: green;
+    color: white;
+    width: 400px;
+    height: 400px;
+    line-height: 400px;
+    text-align: center;
+}
